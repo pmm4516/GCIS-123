@@ -1,3 +1,6 @@
 # GCIS-123
 
-Repo for SI practice problems for students in RIT GCIS 123.01 & 123.02
+Repo for SI practice problems for RIT students in GCIS 123
+
+DISCLAIMER:
+If this violates the law, federal or local, in any way, bite me.
