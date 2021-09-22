@@ -1,0 +1,6 @@
+Total amount of vowels: 68
+Amount of A: 49
+Amount of E: 7
+Amount of I: 4
+Amount of O: 2
+Amount of U: 6
