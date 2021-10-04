@@ -11,3 +11,21 @@ Then transform that loop into a recursive function
 
 Write some TDD tests for it for extra practice
 """
+
+def number_loop():
+    pass
+
+def number_recursion():
+    pass
+
+def string_loop():
+    pass
+
+def string_recursion():
+    pass
+
+def main():
+    pass
+
+if __name__ == "__main__":
+    main()
