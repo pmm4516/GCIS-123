@@ -10,6 +10,8 @@ def test_gen_number():
         actual = True
     else:
         actual = False 
+    
+    # assert(0 <= practice.gen_number() <= 5) also works
     assert(expected == actual)
 
 def test_get_color():
