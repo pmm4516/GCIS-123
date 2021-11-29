@@ -1,0 +1,6 @@
+Total count:2497
+A count:461
+E count:865
+I count:448
+O count:512
+U count:211
